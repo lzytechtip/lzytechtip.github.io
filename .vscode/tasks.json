@@ -9,6 +9,11 @@
             "command": "echo Hello"
         },
         {
+            "type": "shell",
+            "command": "git push -u origin main",
+            "label": "git"
+        },
+        {
             "type": "npm",
             "script": "build",
             "group": "build",
