@@ -11,7 +11,8 @@
         {
             "type": "shell",
             "command": "git push -u origin main",
-            "label": "git push"
+            "label": "git push",
+            "problemMatcher": []
         },
         {
             "type": "npm",
