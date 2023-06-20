@@ -16,7 +16,7 @@ menu:
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
-  链接: /link/ || fas fa-link
+  # 链接: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
@@ -55,7 +55,8 @@ disable_top_img: false
 index_img:
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://gitee.com/jerryliu09/lzytechtip.github.io/raw/main/themes/butterfly/source/img/topimg.jpg
+# default_top_img: https://gitee.com/jerryliu09/lzytechtip.github.io/raw/main/themes/butterfly/source/img/topimg.jpg
+default_top_img: /img/topimg.jpg
 
 # The banner image of archive page
 archive_img:
